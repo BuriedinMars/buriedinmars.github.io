@@ -20,7 +20,7 @@ use '-' or numbers.
 -List element 3
   
  ##How to create links
- -Style A:<http://www.orcsera.com>
- -Style B:[__SELF]<http://www.orcsera.com>
+ -Style A:(http://www.orcsera.com)
+ -Style B:[__SELF](http://www.orcsera.com)
  
 
