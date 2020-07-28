@@ -4,6 +4,10 @@
 
 ### How to create a link:
 [__SELF](http://www.orcsera.com)
+[The link to my own website](https://www.orcsera.com)
+or
+[The link quoted:][1]
+
 
 **Examples:**
 # Title level 1
@@ -24,5 +28,20 @@ and
 >>Second level
 >>>3rd~~~~~~
 
+
+### How to quote code:
+```
+int main(void)
+{
+  int a,b;
+  printf("%d\n",a+b);
+  return 0;
+}
+```
+or use `window.open()`
+
+
+***
+[1]:http://www.orcsera.com
 
 
