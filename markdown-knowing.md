@@ -2,7 +2,7 @@
 
 
 
-1 ### How to create a link:
+## 1 How to create a link:
 [__SELF](http://www.orcsera.com)
 [The link to my own website](https://www.orcsera.com)
 or
@@ -10,12 +10,13 @@ or
 
 
 **Examples:**
+```
 # Title level 1
 ## Title level 2
 #### Title level 4
 ##### Title level 5
-
-2 ### How to decorate words:
+```
+## 2How to decorate words:
 **Bold** and __Bold?__
 *italic* and _italic_
 ***Bold and italic***
@@ -23,13 +24,13 @@ ___Another type of Bold and italic___
 and
 ~~delete line through th words~~
 
-3 ### If we need to quote some words:
+## 3 If we need to quote some words:
 >This is the first level quoting.
 >>Second level
 >>>3rd~~~~~~
 
 
-4 ### How to quote code:
+## 4 How to quote code:
 ```
 int main(void)
 {
@@ -40,13 +41,15 @@ int main(void)
 ```
 or use `window.open()`
 
-5 ### How to buld a table:
-| title | title | title |
-|--:|:--:|:--|
-|name|name|name|
-|20|30|40|
-
-
+## 5 How to buld a list:
+ - list 1
+ - list 2
+ - list 3
+   * element 1
+   * element 2
+   * element 3
+ - list 4
+ 
 ***
 [1]:http://www.orcsera.com
 
