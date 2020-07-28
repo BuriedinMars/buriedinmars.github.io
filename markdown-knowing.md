@@ -16,7 +16,7 @@ or
 #### Title level 4
 ##### Title level 5
 ```
-## 2How to decorate words:
+## 2 How to decorate words:
 **Bold** and __Bold?__
 *italic* and _italic_
 ***Bold and italic***
@@ -49,7 +49,14 @@ or use `window.open()`
    * element 2
    * element 3
  - list 4
- 
+## 6 some check boxes:
+1 []option a
+2 [x]option b
+3 []option c
+
+![A Picture](http://img3.wikia.nocookie.net/__cb20120719052328/bfme/images/thumb/e/e5/Orc_Warrior_icon.jpg/180px-Orc_Warrior_icon.jpg)
+
+
 ***
 [1]:http://www.orcsera.com
 
