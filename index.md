@@ -1,14 +1,14 @@
 ## Welcome to ORC's ERA
 
-Hi,my name is Downhill.
-of course i am not.
+Oh , hello? My name is Mr.Downhill. I am kidding. Right? Who the hell will named Downhill.
+
+09/15-2020
+
+I believe that will be a war in 2020. And GOOD LUCK humans.
 
 
-I found it easy to build a weblog on github today. Just need a github account and a domain.
-and learn some markdown grammar.
-
-### Articles:
-- [MarkDown Knowing](http://orcsera.com/markdown-knowing.html)
+- [Archives](http://orcsera.com/archive)
+- [Gallery](http://orcsera.com/gallery)
 
 
 
