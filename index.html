@@ -6,6 +6,23 @@
   </head>
 <body> 
   <p>So, what's going on?
+    <div id="coversation" style="border:1px solid;background:#eee;">
+      <p>Your say:
+       
+  </div>
+  <script>
+    function say(id){
+      var id = document.getElementById(id);
+      var word = id.value;
+      alert(word);
+      
+    
+    
+    }
+  </script>
+   <input type="text" id="write" /><br>
+  <input ttype="submit" onclick = "say("write")"/>
+  
    <address>
      <p>Please feel free to mail me :info@zozo.link
      <p>or call me after you mailed me.
