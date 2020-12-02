@@ -11,10 +11,17 @@
        
   </div>
   <script>
+    num = 1;
     function say(id){
       var id = document.getElementById(id);
       var word = id.value;
-      alert(word);
+      var up = document.getElementById(""conversation);
+      
+      var down  = document.createElement("p");
+      var txt = document.createTextNode(word);
+      down.appendChild(txt);
+      up.appendChild(down);
+      num++;     
     }
   </script>
    <input type="text" id="write" /><br>
